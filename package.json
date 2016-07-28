@@ -1,0 +1,16 @@
+{
+  "name": "exercism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node ./javascript/say/say.spec.js",
+    "bench": "node ./javascript/say/bench_say.js"
+  },
+  "author": "Moises Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.1",
+    "jasmine-node": "^1.14.5"
+  }
+}
