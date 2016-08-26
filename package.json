@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/jasmine-node/bin/jasmine-node ./javascript/say/say.spec.js",
-    "bench": "node ./javascript/say/bench_say.js"
+    "test": "./node_modules/jasmine-node/bin/jasmine-node ./javascript/linked-list/linked-list.spec.js",
+    "bench": "node ./javascript/linked-list/bench_linked-list.js"
   },
   "author": "Moises Ramirez",
   "license": "ISC",
